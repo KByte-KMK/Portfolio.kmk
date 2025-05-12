@@ -1,7 +1,7 @@
 /* 1. Theme Variables */
 :root {
     --bg: #000000;
-    --card-bg: #ffffffe7;
+    --card-bg: linear gradient(to right, #00FFFF, #008080);
     --primary: #1d867e;
     --secondary:  ##1d867e;
     --text: #000000;
